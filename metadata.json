@@ -1,0 +1,6 @@
+{
+  "name": "ATP Python",
+  "description": "Real Python development, dependency management, and Python-to-Android APK builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
